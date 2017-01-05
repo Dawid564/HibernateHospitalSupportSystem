@@ -44,7 +44,7 @@ public class Operate {
 				run();
 				break;
 			case 7:
-				connector.decresePatientQuantity("Prawica");
+				connector.decresePatientQuantity("Smith");
 				run();
 				break;
 			}
